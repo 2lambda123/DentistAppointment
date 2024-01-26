@@ -24,7 +24,7 @@
     "@webcomponents/custom-elements": "^1.0.0",
     "angular-star-rating": "^3.0.8",
     "angular2-dashboard": "^1.0.0",
-    "bootstrap": "^3.3.7",
+    "bootstrap": "^3.4.1",
     "clarity-angular": "^0.10.11",
     "clarity-icons": "^0.10.11",
     "clarity-ui": "^0.10.11",
